@@ -10,7 +10,7 @@ I design and maintain scalable cloud infrastructure with a focus on networking, 
 
 <p>
   <a href="https://www.credly.com/earner/earned/badge/f4a6d127-3d6f-4050-b798-2c239830b77b">
-    <img src="https://images.credly.com/size/110x110/images/d2a87f46-2849-4a46-bd93-1f6b6b16f1a0/image.png" alt="AWS Certified Advanced Networking – Specialty" width="100"/>
+    <img src="https://images.credly.com/size/110x110/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" alt="AWS Certified Advanced Networking – Specialty" width="100"/>
   </a>
   <a href="https://www.credly.com/earner/earned/badge/6daf755b-ce0f-40ed-892b-c4bcbc76e783">
     <img src="https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="100"/>

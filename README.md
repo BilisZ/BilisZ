@@ -34,12 +34,6 @@ I design and maintain scalable cloud infrastructure with a focus on networking, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilisZ&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanwit-ketpetchkamjay/)

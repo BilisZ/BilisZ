@@ -21,6 +21,9 @@ I design and maintain scalable cloud infrastructure with a focus on networking, 
     <a href="https://www.credly.com/badges/ff6501b4-9d0a-4f89-a1a2-45569d2cd938/public_url">
     <img src="https://images.credly.com/size/110x110/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob" alt="AWS Application Networking Demonstrated" width="100"/>
   </a>
+    <a href="https://www.credly.com/badges/d9f11753-ec46-4f4c-b067-31f3cf690f38/public_url">
+    <img src="https://images.credly.com/size/110x110/images/b3885091-25bc-42d0-8989-34cca82f3056/blob" alt="AWS Serverless Demonstrated" width="100"/>
+  </a>
     <a href="https://www.credly.com/badges/3ad93ffc-b149-4f36-99b5-8aec55ba7a9d/public_url">
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
   </a>

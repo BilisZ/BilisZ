@@ -18,6 +18,9 @@ I design and maintain scalable cloud infrastructure with a focus on networking, 
   <a href="https://www.credly.com/earner/earned/badge/20fcd94f-d84e-48ef-87b7-416bcfe74350">
     <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="100"/>
   </a>
+    <a href="https://www.credly.com/badges/ff6501b4-9d0a-4f89-a1a2-45569d2cd938/public_url">
+    <img src="https://images.credly.com/size/110x110/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob" alt="AWS Application Networking Demonstrated" width="100"/>
+  </a>
 </p>
 
 ---
